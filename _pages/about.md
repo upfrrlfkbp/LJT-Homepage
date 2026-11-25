@@ -24,7 +24,7 @@ I am a first-year PhD candidate at the HKUST NLP Group. My research focuses on n
 ## Academic Background
 
 - Ph.D. in Computer Science, Hong Kong University of Science and Technology (2024–Present)
-- B.Eng., Shanghai Jiao Tong University (2020–2024)
+- B.Eng., Shanghai Jiao Tong University (SJTU) (2020–2024), graduated in June 2024
 - PhD supervisor: Professor Junxian He (also previously advised during undergraduate studies at Shanghai Jiao Tong University)
 - Honors: Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
